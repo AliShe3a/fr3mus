@@ -292,4 +292,4 @@ if(msg.content.startsWith(`${prefix}topservers`)){
  
  
 
-client.login("NTg3NTcxMzQ0MzEzNTQ4ODAw.XSsziA.rZ1XbSbo00b-x8R3h9oCxqQ5Lt0");
+client.login("token");
